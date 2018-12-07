@@ -1,0 +1,27 @@
+.imagen{
+	-fx-background-image: url("view/assets/blueforest.jpg");
+	-fx-background-size: cover, auto;
+}
+
+.boton{
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+	-fx-text-fill: white;
+	-fx-border-radius: 5px;
+
+}
+
+.boton:hover {
+	-fx-background-color: black;
+	-fx-border-color: white;
+}
+
+.fuente{
+	-fx-font-family: "Poiret One";
+}
+
+.fuente2{
+	-fx-font-family: "Underdog";
+	-fx-font-weight: bold;
+	-fx-font-size: 18px;
+}
